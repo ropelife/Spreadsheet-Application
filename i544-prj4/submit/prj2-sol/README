@@ -1,0 +1,9 @@
+Name:		Anjali Eknath Chaudhari
+B-Number:	B00979004
+Email:		achaud25@binghamton.edu
+
+References:
+1) http://mongodb.github.io/node-mongodb-native/5.1/classes/Db.html#collection
+2) https://zdu.binghamton.edu/cs544/slides/user-auth/code/auth/src/lib/auth-dao.ts?lang=ts
+3) http://mongodb.github.io/node-mongodb-native/5.1/classes/Collection.html#deleteOne
+4) https://stackoverflow.com/questions/54894312/s-w-g-1-how-are-the-spaces-being-removed
